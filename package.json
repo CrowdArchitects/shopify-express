@@ -1,6 +1,6 @@
 {
   "name": "@crowdarchitects/shopify-express",
-  "version": "1.0.0-alpha.7",
+  "version": "1.0.0-alpha.8",
   "author": "CrowdArchitects GmbH",
   "description": "Get up and running quickly with Express.js and the Shopify API.",
   "keywords": [
